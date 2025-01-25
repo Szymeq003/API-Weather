@@ -12,8 +12,7 @@ Aplikacja Pogodowa to prosty program napisany w Pythonie, który pobiera i wyśw
 ## Instalacja
 1. Sklonuj repozytorium na swój komputer.
     ```bash
-    git clone https://twoje-repozytorium.git
-    cd twoje-repozytorium
+    git clone https://github.com/Szymeq003/API-Weather
     ```
 2. Zainstaluj wymagane moduły.
     ```bash
